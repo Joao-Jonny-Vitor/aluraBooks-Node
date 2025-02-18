@@ -1,0 +1,24 @@
+{
+  "name": "alurabooks-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Joao-Jonny-Vitor/aluraBooks-Node#readme",
+  "bugs": {
+    "url": "https://github.com/Joao-Jonny-Vitor/aluraBooks-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Jonny-Vitor/aluraBooks-Node.git"
+  },
+  "license": "ISC",
+  "author": "João vitor de paula oliveira \"jonny\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
